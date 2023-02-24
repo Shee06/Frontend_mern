@@ -1,0 +1,56 @@
+body{
+    font-family: Arial, Helvetica, Sans-Serif;
+    background-color: white;
+    margin: auto;
+  }
+  
+.img2{
+  
+  width: 100%;
+  margin-bottom: -40px;
+  text-align: center;
+}
+
+.img2 h1{
+  font-weight: 10px;
+  position: relative;
+  bottom: 40px;
+  font-size: 2.5rem;
+  color: #2C61BA;
+}
+.headerw{
+  line-height: 10px;
+}
+.headerw h1{
+    margin: 0;
+  font-size: 2.5em;
+  text-align: center;
+}
+.headerw p{
+  text-align: center;
+}
+
+button{
+  border-radius: 30px;
+  background-color:#004aad;
+  color: white;
+  padding: 14px 20px;
+  margin: 8px 0;
+  border: none;
+  cursor: pointer;
+  width: 80%;
+  font-size: 20px;
+  font-weight: bold;
+  letter-spacing: 2px;
+  transition-duration: 0.5s;
+  display: inline-block;
+  text-decoration: none;
+  }
+  
+  .btnw{
+    text-align: center;
+    
+  }
+  button:hover{
+    opacity: 3;
+  }
